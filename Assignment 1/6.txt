@@ -1,0 +1,3 @@
+After running the following code, what does the variable bacon contain?
+
+=> The varaible bacon would contain just 22 because bacon+1 is not assigning back to the variable

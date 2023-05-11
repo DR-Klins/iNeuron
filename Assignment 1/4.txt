@@ -1,0 +1,6 @@
+What is an expression made up of? What do all expressions do?
+
+An expression is made up of  operands and operators which in turn in executed by the python interpreter
+and a result is shown
+
+e.g.:- c = a/b - d*e

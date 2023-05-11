@@ -1,0 +1,3 @@
+Why is eggs a valid variable name while 100 is invalid?
+
+It is how python is where it would throw a syntax error because variables cannot start with integers

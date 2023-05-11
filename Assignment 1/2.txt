@@ -1,0 +1,10 @@
+What is the difference between string and variable?
+
+=>  A string is a type of information which could be anything that is enclosed within [quotes]" " irrespective of what is within it, for
+    example it could be an alphabet, integer, special charachters etc wihtin the quotes
+    Whereas variable is where you could store different types of information, one of which is the String type.
+    When you declare a variable certain amount of memory gets allocated depending on the type and size of the variable initialised.
+
+    ex:- var_a = "abC123@#$"
+
+    In the above example var_a is the variable and "abC123@#$" is string

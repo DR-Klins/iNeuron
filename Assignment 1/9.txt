@@ -1,0 +1,4 @@
+Why is eggs a valid variable name while 100 is invalid?
+int()
+float()
+str()

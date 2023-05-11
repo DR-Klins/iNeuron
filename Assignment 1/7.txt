@@ -1,0 +1,7 @@
+7. What should the values of the following two terms be?
+'spam'+'spamspam'
+'spam'*3
+
+Results for both of them would be identical
+=> 'spamspamspam'
+=> 'spamspamspam'

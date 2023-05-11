@@ -1,0 +1,29 @@
+Describe three different data types.
+
+1 - Numeric type consists of int,float,complex
+
+    In python 3, int has unlimited size which consists all the negative integers,
+    positive integers and also zero
+    e.g.:- a = 10
+
+    Float are just values with decimals which has a maximum size of 64-bit
+    e.g.:- a = 10.01
+
+    complex numbers can also be defined in python
+    e.g.:- a = 3+6j
+
+2 - Sequence Types consists of list,tuple, range
+    
+    As its name suggests List could be a list of similar or different data types  stored
+    in variable which is also mutable
+    e.g.:- a = ["a",2,[1,2,3]]
+
+    Whereas Tuple is similar to List but it isn't mutable
+    e.g.:- a = ("a",2,[1,2,3])
+
+    it creates a Sequence of numbers provided from the number provided by incrementing 1 at a time
+    e.g.:- range(5)
+
+3 - Boolean Type just gives two outputs either 1 or 0 based on the condition which could be also
+    interpreted as true and false
+    

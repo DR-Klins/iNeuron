@@ -1,0 +1,6 @@
+This assignment statements, like spam = 10. What is the difference between an
+expression and a statement?
+
+=>  In an assignment statement the variable is being just declared and defined.
+    Whereas in an expression there could be some mathematical operations being taken place
+    along with declaration and definition.

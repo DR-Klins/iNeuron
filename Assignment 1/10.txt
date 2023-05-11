@@ -1,0 +1,6 @@
+Why does this expression cause an error? How can you fix it?
+'I have eaten'+99+'burritos.'
+
+It would cause an error becuase a string type cannot be added with an integer type 
+The below would solve it,
+'I have eaten'+'99'+'burritos.'
